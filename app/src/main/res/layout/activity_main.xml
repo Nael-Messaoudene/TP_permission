@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/txtAuth"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/vous_devez_autoriser_l_acc_s_au_gps_pour_qu_on_puisse_r_cup_rer_votre_position"
@@ -16,6 +17,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:id="@+id/btnAuth"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
