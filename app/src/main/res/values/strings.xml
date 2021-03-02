@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TP_permission</string>
+    <string name="vous_devez_autoriser_l_acc_s_au_gps_pour_qu_on_puisse_r_cup_rer_votre_position">Vous devez autoriser l\'accès au GPS pour qu\'on puisse récupérer votre position</string>
+    <string name="autoriser_l_acc_s">Autoriser l\'accès</string>
 </resources>
